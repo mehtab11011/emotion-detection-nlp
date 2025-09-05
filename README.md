@@ -69,7 +69,7 @@ The result is displayed in the Streamlit interface.
 
 📽️ Demo Video
 
-👉 (Add your LinkedIn or YouTube demo video link here)
+👉 https://www.linkedin.com/posts/mehtab-khan-855a9b296_ai-nlp-machinelearning-activity-7369622127529955331-t9FR?utm_medium=ios_app&rcm=ACoAAEe1QAEBO3NzVu3Py2U_ra_I1WmJ25gBC3s&utm_source=social_share_send&utm_campaign=copy_link
 
 📜 License
 
